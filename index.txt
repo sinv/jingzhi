@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hi！</h1>
+<p>I'm hosted with GitHub Pages.</p>
+<p>A blog.</p>
+</body>
+</html>
